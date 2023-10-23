@@ -4,7 +4,18 @@ For this project, our goal was to build a chatbot that can carry out multi-turn 
 
 We used a sample of the new Ubuntu Dialogue Corpus that consists of almost one million two-person conversations extracted from the Ubuntu chat logs, used to receive technical support for various Ubuntu-related problems. The conversations have an average of 8 turns each, with a minimum of 3 turns. All conversations are carried out in text form (not audio).
 
-You can find the dataset here: https://www.kaggle.com/datasets/rtatman/ubuntu-dialogue-corpus
+You can find the datasets here:
+Kaggle - Ubuntu Dialogue Corpus
+https://www.kaggle.com/datasets/rtatman/ubuntu-dialogue-corpus/data
+
+Hugging Face (Filtered version of same dataset with Question/Answer pairs):
+https://huggingface.co/datasets/sedthh/ubuntu_dialogue_qa
+
+Chatbot Demo:
+https://huggingface.co/spaces/jeraimondi/chatbot-ubuntu-gpt2-demo
+
+Chatbot Model:
+https://huggingface.co/jeraimondi/chatbot-ubuntu-gpt2
 
 Group members include:
 * Jason Raimondi

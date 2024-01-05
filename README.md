@@ -10,7 +10,7 @@ the University of San Diego (USD).
 https://huggingface.co/spaces/jeraimondi/chatbot-ubuntu-gpt2-demo
 
 <p align='center'>
-<img src='chatbot_app_screenshot.png' />
+<img src='data/chatbot_app_screenshot.png' />
 </p>
 
 ## Presentation
